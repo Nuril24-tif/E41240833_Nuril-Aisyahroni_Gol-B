@@ -1,1 +1,0 @@
-System.out.println ("Hallow nama aku nurilll");
